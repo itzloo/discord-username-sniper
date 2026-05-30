@@ -137,3 +137,4 @@ for th in threadsstarted:
 print(f"{Fore.WHITE}Press any key...")
 os.system("pause > NUL")
 exit(1)
+
